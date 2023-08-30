@@ -1,7 +1,9 @@
-# Kurulum (Installation)
-`cd neofetch-folder` `sudo make install`
+# Kurulum
+`cd neofetch-folder` 
 
-# Neofetch Pictures
+`sudo make install`
+
+# Neofetch
 
 ![loputonlinux](https://github.com/endor79/neofetch_files/assets/105305285/53977b6e-192d-47d9-8fae-400d40d58c29)
 
