@@ -1,8 +1,3 @@
-# Kurulum
-`cd neofetch-folder` 
-
-`sudo make install`
-
 # Neofetch
 
 ![Screenshot_2023-10-26_23-16-48](https://github.com/endor79/neofetch_files/assets/105305285/123f8df4-d510-4f0e-972c-43529a749841)
