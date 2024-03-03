@@ -1,4 +1,5 @@
 # Neofetch
+![Screenshot_2024-03-03_19-33-33](https://github.com/endor79/Neofetch/assets/105305285/39ffe971-0592-4326-b819-68a2f15524e0)
 
 ![Screenshot_2023-10-26_23-16-48](https://github.com/endor79/neofetch_files/assets/105305285/123f8df4-d510-4f0e-972c-43529a749841)
 
